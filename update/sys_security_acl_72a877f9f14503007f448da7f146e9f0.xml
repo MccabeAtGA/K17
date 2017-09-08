@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-09-07 23:52:27</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>72a877f9f14503007f448da7f146e9f0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_k17_lab</sys_name>
